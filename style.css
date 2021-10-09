@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+td {
+  width: 300px;
+}
+
+.select2-container {
+  min-width: 300px;
+
+}
